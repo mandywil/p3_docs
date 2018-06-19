@@ -9,7 +9,7 @@ Upcoming Webinars
 +------------------------------------------+-------------------------+-------------------------+
 | Topic                                    | Date                    | Information             |
 +==========================================+=========================+=========================+
-| Metagenomic Binning Service              | 2018-02-28 3:00 pm EST  |                         |
+|  Protein Family Sorter                   | 2018-05-31 3:00 pm EST  | See link below          |
 +------------------------------------------+-------------------------+-------------------------+
 | TBA                                      | TBA                     |                         |
 +------------------------------------------+-------------------------+-------------------------+
@@ -17,8 +17,9 @@ Upcoming Webinars
 
 .. toctree::
    :maxdepth: 1
-   :caption: Recorded Webinars
-
+   :caption: Recorded and Scheduled Webinars
+   
+   protein_family_sorter
    metagenomic_binning
    proteome_comparison
    phylogenetic_tree_builder
