@@ -9,16 +9,15 @@ Upcoming Webinars
 +------------------------------------------+-------------------------+-------------------------+
 | Topic                                    | Date                    | Information             |
 +==========================================+=========================+=========================+
-|  Protein Family Sorter                   | 2018-05-31 3:00 pm EST  | See link below          |
-+------------------------------------------+-------------------------+-------------------------+
-| TBA                                      | TBA                     |                         |
+| TBA                                      | TBA                     | N/A                     |
 +------------------------------------------+-------------------------+-------------------------+
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Recorded and Scheduled Webinars
+   :caption: Recorded Webinars
    
+   comprehensive_genome_analysis
    protein_family_sorter
    metagenomic_binning
    proteome_comparison

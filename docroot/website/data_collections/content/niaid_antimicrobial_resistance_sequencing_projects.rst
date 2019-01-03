@@ -17,27 +17,29 @@ The following sequencing projects completed by the GCIDs have a focus on underst
 
 For more information about each projects, follow the project title link to the information available from the individual sequencing centers.
 
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| Project Title                                                                                                                         | Institution            | Genome List at PATRIC |
-+=======================================================================================================================================+========================+=======================+
-| `Acinetobacter Sequencing`_                                                                                                           | Broad Institute        | `Genome List 1`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `Comparative genomic analyses of Streptococcus pneumoniae - emergence of multidrug resistant and vaccine replacement serotypes`_      | University of Maryland | `Genome List 2`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `Enterococcus I comparative`_                                                                                                         | Broad Institute        | `Genome List 3`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `Identification of genomic changes in Staphylococcus aureus tdat confer resistance to peptidoglycan hydrolase antimicrobial enzymes`_ | University of Maryland | `Genome List 4`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `KPC and Klebsiella pneumoniae - virulence and resistance converge`_                                                                  | JCVI                   | `Genome List 5`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `Livestock-associated MRSA ST398`_                                                                                                    | Broad Institute        | `Genome List 6`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `Staphyloccus Drug Resistance Evolution and Comparative`_                                                                             | Broad Institute        | `Genome List 7`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `Whole Genome Sequence Analysis of Carbapenem-resistant Enterobacteriaceae`_                                                          | JCVI                   | `Genome List 8`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
-| `Whole Genome Sequence Analysis of Pseudomonas aeruginosa clinical Isolates`_                                                         | Broad Institute        | `Genome List 9`_      |
-+---------------------------------------------------------------------------------------------------------------------------------------+------------------------+-----------------------+
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| Project Title                                                                  | Institution            | Genome List at PATRIC |
++================================================================================+========================+=======================+
+| `Acinetobacter Sequencing`_                                                    | Broad Institute        | `Genome List 1`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `Comparative genomic analyses of Streptococcus pneumoniae -                    |                        |                       |
+| emergence of multidrug resistant and vaccine replacement serotypes`_           | University of Maryland | `Genome List 2`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `Enterococcus I comparative`_                                                  | Broad Institute        | `Genome List 3`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `Identification of genomic changes in Staphylococcus aureus that confer        |                        |                       |
+| resistance to peptidoglycan hydrolase antimicrobial enzymes`_                  | University of Maryland | `Genome List 4`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `KPC and Klebsiella pneumoniae - virulence and resistance converge`_           | JCVI                   | `Genome List 5`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `Livestock-associated MRSA ST398`_                                             | Broad Institute        | `Genome List 6`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `Staphyloccus Drug Resistance Evolution and Comparative`_                      | Broad Institute        | `Genome List 7`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `Whole Genome Sequence Analysis of Carbapenem-resistant Enterobacteriaceae`_   | JCVI                   | `Genome List 8`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
+| `Whole Genome Sequence Analysis of Pseudomonas aeruginosa clinical Isolates`_  | Broad Institute        | `Genome List 9`_      |
++--------------------------------------------------------------------------------+------------------------+-----------------------+
 
 .. _Acinetobacter Sequencing: https://olive.broadinstitute.org/projects/acinetobacter
 .. _Comparative genomic analyses of Streptococcus pneumoniae - emergence of multidrug resistant and vaccine replacement serotypes: http://gscid.igs.umaryland.edu/wp.php?wp=pneumococcal_multidrug_resistance_and_vaccine_escape
@@ -54,7 +56,7 @@ For more information about each projects, follow the project title link to the i
 .. _Genome List 3: https://www.patricbrc.org/view/GenomeList/?keyword(%22Enterococcus%20I%20comparative%22)#view_tab=genomes
 .. _Genome List 4: https://www.patricbrc.org/view/GenomeList/?and(keyword(%22Identifying%20the%20genomic%20changes%20in%20Staphylococcus%22),keyword(%22that%20confer%20resistance%20to%20peptidoglycan%20hydrolase%20antimicrobial%20enzymes%22))#view_tab=genomes
 .. _Genome List 5: https://www.patricbrc.org/view/GenomeList/?keyword(%22clinical%20isolates%20of%20Klebsiella%20pneumoniae%20to%20identify%20features%20associated%20with%20infection%20and%20colistin%20resistance%22)#view_tab=genomes
-.. _Genome List 6: https://www.patricbrc.org/portal/portal/patric/GenomeList?cType=taxon&cId=2&dataSource=&displayMode=&pk=&kw=%22MRSA%20ST398%22
+.. _Genome List 6: https://patricbrc.org/view/GenomeList/?and(keyword(MRSA),keyword(%22ST398%22))
 .. _Genome List 7: https://www.patricbrc.org/view/GenomeList/?keyword(%22MRSA%20ST398%22)#view_tab=genomes
 .. _Genome List 8: https://www.patricbrc.org/view/GenomeList/?keyword(%22Whole%20Genome%20Sequence%20Analysis%20of%20Carbapenem-resistant%20Enterobacteriaceae%22)#view_tab=genomes
 .. _Genome List 9: https://www.patricbrc.org/view/GenomeList/?keyword(%22Whole%20Genome%20Sequence%20Analysis%20of%20Pseudomonas%20aeruginosa%20clinical%20Isolates%22)#view_tab=genomes

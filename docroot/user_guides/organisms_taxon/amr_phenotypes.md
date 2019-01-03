@@ -5,8 +5,7 @@ The AMR Phenotypes Tab provides a tabular view of all of the AMR phenotype data 
 
 ### See also
 
-  * [Antibiotic Resistance Data](../data/antibiotic_resistance.html)
-  * [Antibiotics Data](../data/antibiotics.html)
+  * [Antibiotic Resistance Data](https://patricbrc.org/view/DataType/AntibioticResistance)
 
 ## Accessing AMR Phenotypes on the PATRIC Website
 Clicking the AMR Phenotypes Tab in a Taxon View displays a table with rows for each genome/antibiotic combination for which there is an AMR phenotype designation or MIC value in that taxonomic level, as shown below:
@@ -14,6 +13,12 @@ Clicking the AMR Phenotypes Tab in a Taxon View displays a table with rows for e
 ### AMR Phenotypes Table
 ![AMR Phenotypes Table](../images/amr_phenotypes_tab.png)
 The table provides a listing of Resistance Phenotype (Susceptible, Resistant, Intermediate) for each of the tested antibiotics/chemicals associated with each genome. Where available, additional panel data are provided such as MIC information (Measurement Sign, Measurement Value, Measurement Units, Testing Standard, Testing Standard Year). Additional fields for Lab Typing information (Method, Platform, Vendor, Version) and Source are also available.
+
+### Predicted AMR Phenotypes
+![Predicted AMR Phenotypes](../images/predicted_amr_phenotypes.png)
+The PATRIC Genome Annotation Service provides predictions of AMR Phenotypes for genomes for which AMR classifiers have been built For these predicted phenotypes, the Lab Typing Method will be "Computational Prediction", the Lab Typing Platform will show the classifier type (e.g., "AdaBoost Classifier"), The Lab Typing Vendor will show the source of the classifier producer (e.g., "PATRIC"), and the Lab Typing Version will show the accuracy and other scores associated with the prediction (e.g., "Accuracy:0.995, F1 scroe:0.995, AUC:0.991"). 
+
+See [Davis, JJ, et al. 2016](https://www.nature.com/articles/srep27930) and [PATRIC AdaBoost Classification Software](http://tutorial.theseed.org/AdaBoost_Installation_Tutorial.htm) for more information on how AMR classifiers are constructed and used in PATRIC. 
 
 ### AMR Phenotypes Table Tools
 Within this table you may do the following:
@@ -28,7 +33,7 @@ As with all tables in PATRIC, the Filters tool is available to narrow the displa
   
 ![AMR Phenotypes Filter Panel](../images/amr_phenotypes_filter_panel.png)
 
-Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the genomes displayed in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  More details are available in the [Filter Tool](../other/filter_tool.html) user guide.
+Clicking on the Filters button at the top right of the table opens the Filter Panel above the table, displaying column names from the table and values for those columns with counts of occurence.  Clicking on the filter values narrows the genomes displayed in the table to those matching the chosen filter values.  Clicking the Hide button closes the Filter Panel.  More details are available in the [PATRIC Tables and Filters](../tables.html) user guide.
 
 ### Action buttons
 
@@ -38,7 +43,7 @@ After selecting one or more of the genomes by clicking the checkbox beside the G
 * **Download:**  Downloads the selected items (rows).
 * **Copy:** Copies the selected items to the clipboard.
 * **Genome:** Loads the Genome View Overview page for the selected genome (if only one genome selected).
-* **Antibiotic:** Loads the Antibiotic Overview for the corresponding antibiotic selected (available only if one genome/antibiotic row is selected). The Antibiotic Overview provides detailed information regarding the antibiotic.  See [Antibiotics Data](../data/antibiotics.html).
+* **Antibiotic:** Loads the Antibiotic Overview for the corresponding antibiotic selected (available only if one genome/antibiotic row is selected). The Antibiotic Overview provides detailed information regarding the antibiotic.  See [Antibiotics Data](https://patricbrc.org/view/DataType/AntibioticResistance).
 * **Group:** Opens a pop-up window to enable adding the selected genome/antibiotic records to an existing or new group in the private workspace.
 
-More details are available in the [Action Buttons](../other/action_buttons.html) user guide.
+More details are available in the [Selection Action Bar](../action_bar.html) user guide.

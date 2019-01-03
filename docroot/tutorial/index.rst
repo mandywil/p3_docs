@@ -14,6 +14,8 @@ Genomics
 
    genome_assembly/assembly.md
    genome_annotation/annotation.md
+   genome_quality_report/genome_quality_report
+   comprehensive-genome-analysis/comprehensive-genome-analysis.md
    private_genome/private_genome.md
    blast/blast.md
    similar_genome_finder/similar_genome_finder.md
@@ -61,9 +63,11 @@ Others
 .. toctree::
    :maxdepth: 1
 
+   genome_quality_report/genome_quality_report.md
    genome_groups/creating_genome_groups.md
    amr/amr.md
    binning_overview
    dev_at_argonne
    enabling_flash/enabling_flash
    sharing_data_in_the_workplace/sharing_data_in_the_workplace.md
+   sharing-a-private-genome-in-patric.md
